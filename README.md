@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #000; padding: 10px; margin: 20px;">
 
-<img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="New Banner" width="1000px" height="200px" style="border: 2px solid #000;">
+<img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="New Banner" width="1000px" height="300px" style="border: 2px solid #000;">
 
 # Hey, I'm Saif! 👋
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-⚛️-333333?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/Bootstrap-🔥-333333?style=flat&logo=bootstrap">
+  <<img src="https://img.shields.io/badge/Bootstrap-🔥-333333?style=flat&logo=bootstrap">
   <img src="https://img.shields.io/badge/Tailwind_CSS-🌈-333333?style=flat&logo=tailwindcss">
 </p>
 
@@ -58,13 +58,13 @@ Let's code, collaborate, and create together! ✨
 
 - 🌱 I’m currently learning **Web And Development**
 
-- 💬 Ask me about **building websites , Application, converting websites into Application by (PWA) and about framework such as bootstrap , Tailwind CSS etc.**
+- 💬 Ask me about **building websites, Application, converting websites into Application by (PWA) and about frameworks such as bootstrap, Tailwind CSS, etc.**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/safey safo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safey safo" height="30" width="40" /></a>
-<a href="https://fb.com/safey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safey" height="30" width="40" /></a>
+<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safey" height="30" width="40" /></a>
 <a href="https://instagram.com/safey_al_blushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safey_al_blushi" height="30" width="40" /></a>
 </p>
 
@@ -76,3 +76,5 @@ Let's code, collaborate, and create together! ✨
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safey11&show_icons=true&locale=en" alt="safey11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safey11&" alt="safey11" /></p>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Footer Gif" width="100%" height="200px" style="margin-top: 20px;">
