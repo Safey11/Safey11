@@ -33,8 +33,8 @@ Explore some of my exciting projects:
 
 Let's connect and share our coding journeys:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) 🤝
-- [Twitter](https://twitter.com/your-twitter-handle) 🐦
+- [LinkedIn](https://linkedin.com/in/safey-safo) 🤝
+- [Twitter](https://twitter.com/) 🐦
 
 ## 🌐 Reach Me
 
@@ -46,7 +46,9 @@ I believe in the magic of coding and creating. Check out my GitHub repositories 
 
 Let's code, collaborate, and create together! ✨
 
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Gif" width="500">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safey11&label=Profile%20views&color=0e75b6&style=flat" alt="safey11" /> </p>
 
