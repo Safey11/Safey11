@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/09/rotate-pulsating-loading-animation.gif?fit=880%2C440&ssl=1" alt="Banner" width="100%">
+
+
 # Hey, I'm Saif! 👋
 
 🎓 12th-grade student at Guards Public College  
