@@ -46,8 +46,7 @@ I believe in the magic of coding and creating. Check out my GitHub repositories 
 
 Let's code, collaborate, and create together! ✨
 
-<h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safey11&label=Profile%20views&color=0e75b6&style=flat" alt="safey11" /> </p>
 
@@ -57,7 +56,6 @@ Let's code, collaborate, and create together! ✨
 
 - 💬 Ask me about **building websites , Application, converting websites into Application by (PWA) and about framework such as bootstrap , Tailwind CSS etc.**
 
-- 📫 How to reach me **safeysafo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
