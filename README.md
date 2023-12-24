@@ -1,7 +1,6 @@
-<div align="center">
+<div align="center" style="border: 2px solid #000; padding: 10px; margin: 20px;">
 
-<img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/09/rotate-pulsating-loading-animation.gif?fit=880%2C440&ssl=1" alt="Banner" width="100%">
-
+<img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="New Banner" width="1000px" height="200px" style="border: 2px solid #000;">
 
 # Hey, I'm Saif! 👋
 
@@ -49,7 +48,7 @@ I believe in the magic of coding and creating. Check out my GitHub repositories 
 
 Let's code, collaborate, and create together! ✨
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Development Gif" width="500">
 </p>
 
