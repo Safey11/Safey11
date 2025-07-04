@@ -1,110 +1,125 @@
 <div align="center">
-  <img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="Banner" width="1000px" height="250px"/>
+  <img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Saif 👋</h1>
+<h1 align="center">🌟 Hey, I'm Saif — A Developer with Vision, Heart, and Hustle 🚀</h1>
 
 <p align="center">
-  💻 Full Stack Developer in Progress | 🎓 AI & Data Science Student | 🌱 Lifelong Learner  
+  <strong>🎓 AI & Data Science Student @ BBSUL | 💻 Full Stack Explorer | 🤝 Lifelong Collaborator</strong>
 </p>
 
 ---
 
-### 📖 My Journey
+## 📖 My Story: From Curiosity to Code
 
-I'm **Saif**, a dedicated university student at **Benazir Bhutto Shaheed University (BBSUL)**, currently specializing in **Artificial Intelligence and Data Science**. 
+> “Somewhere between imagination and reality, I found a keyboard.”
 
-What started as a hobby quickly became a passion. From building simple websites in high school to exploring the depths of **AI, Linux, and data**, I’ve grown into a developer who not only loves to **code**, but also to **solve meaningful problems**.
+I grew up asking "why?", "how?", and "what if?" — and that mindset led me here.
 
-Whether it’s developing user-friendly interfaces or analyzing data to uncover insights, I strive to **reach my highest potential** — and help others do the same.
+I'm **Saif**, a university student studying **Artificial Intelligence and Data Science** at **Benazir Bhutto Shaheed University (BBSUL)**. I don’t just build apps — I build **hope**, **solutions**, and **future possibilities** through code.
 
----
+Each line I write is a small piece of a **bigger mission** — to **solve real problems**, to **connect people**, and to **make an impact** that lasts beyond screens.
 
-### 🚀 What Drives Me
-
-- 🎯 **Purpose**: I build tech that solves real-world problems.
-- 🤝 **Collaboration**: I work with local & international clients.
-- 🔬 **Curiosity**: I explore new tools, frameworks, and concepts.
-- 🧠 **Growth**: I aim to become the best version of myself — every day.
+> *“Not every developer starts with the best tools — but the best ones start with belief.”*
 
 ---
 
-### 💡 Currently Working On
+## 💡 Vision, Vibes & Values
 
-- 🧠 Deepening my knowledge in **AI & Machine Learning**
-- 🧪 Real-world **Data Science** projects with Python & Pandas
-- 💻 Building scalable **React & Node.js** applications
-- 🐧 Mastering **Linux** for developers
-- 🌍 Freelance projects (Web + App Development) with real clients
+| 🌱 Learning | 🛠 Building | 💬 Believing |
+|------------|------------|--------------|
+| Linux, AI, ML, Data Science, Firebase | Real-world apps for real people | That anyone, anywhere can achieve greatness with effort |
 
 ---
 
-### 🛠️ Tech Stack
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwindcss)
-
-**Backend & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-333333?style=flat&logo=visual-studio-code)
-
----
-
-### 💼 Featured Projects
-
-- 🌟 [Grbuu](https://grbuu.com) – A user-friendly project that solves real-world needs with a clean frontend and practical backend.
-- ⚡ [iSafey](https://isafey.tech) – A personal project built to showcase full-stack capabilities, strong UI/UX, and growth mindset.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safey11&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safey11&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safey11&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### 🤝 Let’s Connect and Collaborate
-
-If you're looking to **collaborate**, **mentor**, or **hire** — I’d love to connect with you!
-
-- 📬 Email: **safey11@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/safey-safo)
-- 📸 [Instagram](https://instagram.com/safey_al_blushi)
-- 🌐 [Twitter](https://twitter.com/)
-
----
-
-### 🔥 A Note to Interviewers & Visitors
-
-> *"I may be young, but I'm driven, disciplined, and constantly leveling up. What I lack in years of experience, I make up for in passion, progress, and persistence."*
-
-I'm not just here to write code — I'm here to **solve**, **lead**, and **grow**. If you're looking for someone with potential, grit, and heart — let’s build something amazing together.
-
----
+## 🛠 My Developer Arsenal
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Web Dev GIF" width="500"/>
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="40" />
+
+### ⚙️ Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,git,vscode,linux" height="40" />
+
+### 🚀 Currently Exploring
+<img src="https://skillicons.dev/icons?i=ai,mongodb,typescript,nextjs" height="40" />
+
 </div>
+
+---
+
+## 🔥 Passion Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Grbuu](https://grbuu.com) | A sleek, modern platform solving practical needs. | React, Firebase, Tailwind |
+| [iSafey](https://isafey.tech) | My personal brand + experimental playground. | HTML, CSS, JS |
+| **Student Certificate Portal (WIP)** | Admin panel for tracking, generating, and managing certificates. | React + MongoDB |
+
+---
+
+## 📊 GitHub by the Numbers
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safey11&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=safey11&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safey11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 💼 What I'm Working On (Now)
+
+- 🧠 Building AI models & practicing Data Science
+- 🐧 Learning to automate with Linux
+- 🔐 Understanding full-stack app security
+- 🛠 Making powerful apps for clients (local + remote)
+- 🌟 Preparing for internships, mentorships, and impact-driven work
+
+---
+
+## ✨ My Philosophy
+
+> **"Don't just write code. Write change."**
+
+Anyone can learn to code — but **coding with heart** takes vision.  
+I build not to show off, but to **show up** — for people, ideas, and opportunities that matter.
+
+If you're a beginner, senior, or somewhere in between — you're **not alone**.  
+We’re all students, and the real skill is **never quitting**.
+
+---
+
+## 🤝 Let’s Collaborate & Connect
+
+I’m always open to exciting collaborations, mentorship, internship opportunities, freelance gigs, and just meaningful conversations.
+
+<div align="center">
+  <a href="mailto:safey11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/safey-safo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/safey_al_blushi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+---
+
+## 🌠 A Message to Anyone Reading
+
+> *“It doesn’t matter where you start — what matters is where you’re headed and how hard you’re willing to work to get there.”*
+
+You can do this. You’re already closer than you think.  
+Let’s learn, build, and inspire — **together**.
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Code Magic" width="500" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=safey11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Footer Gif" width="100%" height="180px" />
-</div>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Footer Gif" width="100%" />
+</p>
