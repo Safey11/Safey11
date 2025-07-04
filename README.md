@@ -96,7 +96,7 @@ We’re all students, and the real skill is **never quitting**.
 I’m always open to exciting collaborations, mentorship, internship opportunities, freelance gigs, and just meaningful conversations.
 
 <div align="center">
-  <a href="mailto:safey11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:safeysafo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/saif-muhammad-87810b278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/safey_al_blushi?utm_source=qr&igsh=bXVqc2h2eXVpZTlx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
