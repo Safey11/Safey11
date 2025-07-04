@@ -2,27 +2,46 @@
   <img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="Banner" width="1000px" height="250px"/>
 </div>
 
-<h1 align="center">Hey, I'm Saif! 👋</h1>
+<h1 align="center">Hi there, I'm Saif 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer in Progress • 🎓 12th-grade Student • 🚀 Tech Explorer  
+  💻 Full Stack Developer in Progress | 🎓 AI & Data Science Student | 🌱 Lifelong Learner  
 </p>
 
 ---
 
-### ✨ About Me
+### 📖 My Journey
 
-From the classroom to the cloud — I'm **Saif**, a passionate student and aspiring full-stack developer. I began my journey with a simple love for design and problem-solving, and today, I’m building websites, mobile apps, and tools that aim to make a real difference.
+I'm **Saif**, a dedicated university student at **Benazir Bhutto Shaheed University (BBSUL)**, currently specializing in **Artificial Intelligence and Data Science**. 
 
-Currently sharpening my skills at **Saylani Mass IT Training Center**, I strongly believe that technology is not just about coding — it's about **creating solutions**, **telling stories**, and **connecting people**.
+What started as a hobby quickly became a passion. From building simple websites in high school to exploring the depths of **AI, Linux, and data**, I’ve grown into a developer who not only loves to **code**, but also to **solve meaningful problems**.
 
-I love combining creativity with logic, which helps me build apps that are not just functional, but meaningful and user-friendly.
+Whether it’s developing user-friendly interfaces or analyzing data to uncover insights, I strive to **reach my highest potential** — and help others do the same.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🚀 What Drives Me
 
-#### Frontend
+- 🎯 **Purpose**: I build tech that solves real-world problems.
+- 🤝 **Collaboration**: I work with local & international clients.
+- 🔬 **Curiosity**: I explore new tools, frameworks, and concepts.
+- 🧠 **Growth**: I aim to become the best version of myself — every day.
+
+---
+
+### 💡 Currently Working On
+
+- 🧠 Deepening my knowledge in **AI & Machine Learning**
+- 🧪 Real-world **Data Science** projects with Python & Pandas
+- 💻 Building scalable **React & Node.js** applications
+- 🐧 Mastering **Linux** for developers
+- 🌍 Freelance projects (Web + App Development) with real clients
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
@@ -30,56 +49,49 @@ I love combining creativity with logic, which helps me build apps that are not j
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwindcss)
 
-#### Backend & Tools
+**Backend & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-333333?style=flat&logo=visual-studio-code)
 
 ---
 
-### 🧠 What I'm Learning Now
+### 💼 Featured Projects
 
-- 🔍 Building secure full-stack web apps
-- ⚙️ API integration, Firebase Auth & Firestore
-- 💡 Progressive Web Apps (PWA)
-- 🎯 Responsive design with Tailwind CSS
-- 📱 Android app basics using React Native (soon!)
-
----
-
-### 🚀 Featured Projects
-
-- 🌟 [Grbuu](https://grbuu.com) – A project aimed to solve real-world needs with clean UI and functional backend.
-- ⚡ [iSafey](https://isafey.tech) – A personal venture into modern design and development to demonstrate creativity and practical skills.
+- 🌟 [Grbuu](https://grbuu.com) – A user-friendly project that solves real-world needs with a clean frontend and practical backend.
+- ⚡ [iSafey](https://isafey.tech) – A personal project built to showcase full-stack capabilities, strong UI/UX, and growth mindset.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safey11&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safey11&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safey11&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=safey11&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safey11&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safey11&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect and Collaborate
 
-I love working with creative minds and passionate learners. Let’s build something amazing together!
+If you're looking to **collaborate**, **mentor**, or **hire** — I’d love to connect with you!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/safey-safo)
-- 📷 [Instagram](https://instagram.com/safey_al_blushi)
-- 🐦 [Twitter](https://twitter.com/)
 - 📬 Email: **safey11@gmail.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/safey-safo)
+- 📸 [Instagram](https://instagram.com/safey_al_blushi)
+- 🌐 [Twitter](https://twitter.com/)
 
 ---
 
-### ✍️ My Developer Philosophy
+### 🔥 A Note to Interviewers & Visitors
 
-> *"Don’t just learn code. Learn to think, solve, and build. Software isn't just syntax — it's a story, it's impact, it's power."*
+> *"I may be young, but I'm driven, disciplined, and constantly leveling up. What I lack in years of experience, I make up for in passion, progress, and persistence."*
+
+I'm not just here to write code — I'm here to **solve**, **lead**, and **grow**. If you're looking for someone with potential, grit, and heart — let’s build something amazing together.
 
 ---
 
