@@ -2,7 +2,7 @@
   <img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">🌟Hey, I'm Saif — A Developer with Vision, Heart, and Hustle 🚀</h1>
+<h1 align="center">🌟Hey, I'm Saif A Developer with Vision, Heart, and Hustle 🚀</h1>
 
 <p align="center">
   <strong>🎓 AI & Data Science Student @ BBSUL | 💻 Full Stack Explorer | 🤝 Lifelong Collaborator</strong>
