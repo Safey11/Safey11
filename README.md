@@ -53,8 +53,8 @@ Each line I write is a small piece of a **bigger mission** — to **solve real p
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Grbuu](https://grbuu.com) | A sleek, modern platform solving practical needs. | React, Firebase, Tailwind |
-| [iSafey](https://isafey.tech) | My personal brand + experimental playground. | HTML, CSS, JS |
+| [Grbuu](https://grbuu.com) | A sleek, modern platform solving practical needs. | Nwxt.js, MongoDB, Tailwind CSS |
+| [iSafey](https://isafey.tech) | My personal brand + experimental playground. | Next.js, MongoDB, Tailwind CSS |
 | **Student Certificate Portal (WIP)** | Admin panel for tracking, generating, and managing certificates. | React + MongoDB |
 
 ---
@@ -97,8 +97,8 @@ I’m always open to exciting collaborations, mentorship, internship opportuniti
 
 <div align="center">
   <a href="mailto:safey11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/safey-safo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/safey_al_blushi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saif-muhammad-87810b278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/safey_al_blushi?utm_source=qr&igsh=bXVqc2h2eXVpZTlx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ---
