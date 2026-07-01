@@ -91,6 +91,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safey11&layout=compact&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=000000" width="100%">
 </picture>
 
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=safey11&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true&radius=6)
+
 ---
 
 <div align="center">
