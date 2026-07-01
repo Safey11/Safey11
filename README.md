@@ -27,31 +27,31 @@
 
 ### 🚀 Projects
 
-**🤖 [AssignMate](https://assgmate-v2.vercel.app)** Live AI SaaS Platform
+**🤖 [AssignMate](https://assgmate-v2.vercel.app)** — Live AI SaaS Platform
 > Built solo from scratch AI assignment generator with real Pakistani payment integration (JazzCash), referral system, streak tracking, cron jobs & full admin panel. Fully deployed on Vercel and production-ready.
 > `Next.js` `MongoDB` `Groq API` `Gemini` `NextAuth` `JazzCash` `Vercel`
 
 ---
 
-**🎓 [HEC Academy](https://hec.safey.fun)** Teaching Platform
+**🎓 [HEC Academy](https://hec.safey.fun)** — Teaching Platform
 > Official site for my weekend coding bootcamp in Karachi where I teach 20+ students Full Stack MERN + Agentic AI (LangChain, LangGraph). Students graduate with 6 live deployed projects.
 > `Next.js` `Tailwind CSS`
 
 ---
 
-**🌍 [Grbuu Consultancy](https://next-project-1kf4.vercel.app)** International Client · Qatar
+**🌍 [Grbuu Consultancy](https://next-project-1kf4.vercel.app)** — International Client · Qatar
 > Delivered a full business website for a Qatar-based management consulting firm — services, bilingual content strategy, appointment section & contact form. Client project, live and delivered.
 > `Next.js` `Tailwind CSS`
 
 ---
 
-**☀️ [Solar Web](https://my-solar-2zjv.vercel.app)** Client Project · Pakistan
+**☀️ [Solar Web](https://my-solar-2zjv.vercel.app)** — Client Project · Pakistan
 > Marketing website for a Pakistani solar energy company — service showcase, team section & contact form. Delivered and live.
 > `Next.js` `Tailwind CSS`
 
 ---
 
-**🌐 [Portfolio](https://safey.fun)** Personal Portfolio
+**🌐 [Portfolio](https://safey.fun)** — Personal Portfolio
 > Built with full SEO, Vercel Analytics, custom 404, sitemap, contact form with EmailJS & performance optimization.
 > `Next.js` `Framer Motion` `Vercel Analytics` `EmailJS`
 
