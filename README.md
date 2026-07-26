@@ -24,6 +24,22 @@
 
 ---
 
+### 💼 Experience
+
+**Instructor — Full Stack MERN + AI** · HEC Academy (Hafiz Education Center)
+> Co-instructing a weekend program teaching 20+ students Full Stack Web & App Development and Agentic AI, from fundamentals to 6 live deployed projects.
+
+**Full Stack Developer & Sales** · Webx (eCommerce)
+> Built e-commerce themes on the Webx platform as a Full Stack Developer, alongside a sales role covering merchant onboarding.
+
+**Frontend Developer** · SMIT Bootcamp
+> Worked within a team as a Frontend Developer during SMIT's Web & App Development bootcamp — first hands-on team-based development experience.
+
+**Freelance Client Work** · Qatar, Dubai & Local Clients
+> Delivered projects for international clients (Qatar-based Grbuu Consultancy, a Dubai-based WordPress project) and local businesses — from full builds to product management on live sites.
+
+---
+
 ### 🚀 Projects
 
 **🌍 [Grbuu Consultancy](https://next-project-1kf4.vercel.app)** — International Client · Qatar
