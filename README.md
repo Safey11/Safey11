@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Saif Muhammad</h1>
-<h3>Full Stack & AI Developer · Karachi, Pakistan</h3>
+<h3>Full Stack Developer · MERN / Next.js · AI Integration · Karachi, Pakistan</h3>
 
 <br/>
 
@@ -16,28 +16,15 @@
 
 ### 👋 About Me
 
-- 🚀 I build **AI-powered SaaS products** — solo, fully deployed, production-ready
+- 💼 **Full Stack Developer** — built & shipped real projects for clients in Qatar, Dubai, and locally
 - 🎓 **AI Student** @ Shaheed Benazir Bhutto University (BBSUL), Karachi
 - 👨‍🏫 **Instructor** @ HEC Academy — teaching **20+ students** Full Stack MERN + AI every weekend
-- 🤖 Integrating **Groq & Gemini APIs** into real production applications
-- 📍 Karachi, Pakistan · Open to **remote & on-site roles**
-- 💼 **Actively looking for Full Stack / AI Developer roles**
+- 🤖 Hands-on experience integrating **Groq & Gemini APIs** into real applications
+- 📍 Karachi, Pakistan · **Actively looking for Full Stack / AI Developer roles** (remote or on-site)
 
 ---
 
 ### 🚀 Projects
-
-**🤖 [AssignMate](https://assgmate-v2.vercel.app)** — Live AI SaaS Platform
-> Built solo from scratch AI assignment generator with real Pakistani payment integration (JazzCash), referral system, streak tracking, cron jobs & full admin panel. Fully deployed on Vercel and production-ready.
-> `Next.js` `MongoDB` `Groq API` `Gemini` `NextAuth` `JazzCash` `Vercel`
-
----
-
-**🎓 [HEC Academy](https://hec.safey.fun)** — Teaching Platform
-> Official site for my weekend coding bootcamp in Karachi where I teach 20+ students Full Stack MERN + Agentic AI (LangChain, LangGraph). Students graduate with 6 live deployed projects.
-> `Next.js` `Tailwind CSS`
-
----
 
 **🌍 [Grbuu Consultancy](https://next-project-1kf4.vercel.app)** — International Client · Qatar
 > Delivered a full business website for a Qatar-based management consulting firm — services, bilingual content strategy, appointment section & contact form. Client project, live and delivered.
@@ -47,6 +34,18 @@
 
 **☀️ [Solar Web](https://my-solar-2zjv.vercel.app)** — Client Project · Pakistan
 > Marketing website for a Pakistani solar energy company — service showcase, team section & contact form. Delivered and live.
+> `Next.js` `Tailwind CSS`
+
+---
+
+**🤖 [AssignMate](https://assgmate-v2.vercel.app)** — AI SaaS Platform (In Active Development)
+> AI-powered assignment generator with Pakistani payment integration (JazzCash), referral system, streak tracking, cron jobs & a full admin panel. Core platform is live on Vercel; actively adding features (including chart/graph generation).
+> `Next.js` `MongoDB` `Groq API` `Gemini` `NextAuth` `JazzCash` `Vercel`
+
+---
+
+**🎓 [HEC Academy](https://hec.safey.fun)** — Teaching Platform
+> Official site for my weekend coding bootcamp in Karachi where I teach 20+ students Full Stack MERN + Agentic AI (LangChain, LangGraph). Students graduate with 6 live deployed projects.
 > `Next.js` `Tailwind CSS`
 
 ---
