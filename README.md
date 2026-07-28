@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-- 💼 **Full Stack Developer** — built & shipped real projects for clients in Qatar, Dubai, and locally
+- 💼 **Full Stack Developer** I built & shipped real projects for clients in Qatar, Dubai, and locally
 - 🎓 **AI Student** @ Shaheed Benazir Bhutto University (BBSUL), Karachi
 - 👨‍🏫 **Instructor** @ HEC Academy teaching **10+ students** Full Stack MERN + AI every weekend
 - 🤖 Hands-on experience integrating **Groq & Gemini APIs** into real applications
