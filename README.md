@@ -18,7 +18,7 @@
 
 - 💼 **Full Stack Developer** — built & shipped real projects for clients in Qatar, Dubai, and locally
 - 🎓 **AI Student** @ Shaheed Benazir Bhutto University (BBSUL), Karachi
-- 👨‍🏫 **Instructor** @ HEC Academy — teaching **20+ students** Full Stack MERN + AI every weekend
+- 👨‍🏫 **Instructor** @ HEC Academy teaching **10+ students** Full Stack MERN + AI every weekend
 - 🤖 Hands-on experience integrating **Groq & Gemini APIs** into real applications
 - 📍 Karachi, Pakistan · **Actively looking for Full Stack / AI Developer roles** (remote or on-site)
 
